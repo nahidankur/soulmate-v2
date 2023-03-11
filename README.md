@@ -11,7 +11,7 @@ For better experience use `Desktop` mode while browsing.
 
 Future update will be released soon.
 
-[Live Preview Availbale](https://kind-ruby-walkingstick-wrap.cyclic.app)
+# [Live Preview Availbale](https://kind-ruby-walkingstick-wrap.cyclic.app)
 
 
 # Installation Guide 🚀
